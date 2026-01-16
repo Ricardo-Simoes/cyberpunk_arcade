@@ -3,10 +3,10 @@
 </p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/LICENSE">
+  <a href="https://raw.githubusercontent.com/Ricardo-Simoes/cyberpunk_arcade/refs/heads/main/LICENSE">
     <img src="https://img.shields.io/badge/license-009dff?style=for-the-badge" alt="license" />
   </a>
-  <a href="https://www.pling.com/p/1569525">
+  <a href="#">
     <img src="https://img.shields.io/badge/Download-32cd32?style=for-the-badge" alt="download" />
   </a>
 </div>
