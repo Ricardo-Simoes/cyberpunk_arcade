@@ -17,7 +17,7 @@
 
 ### ⚙️ Installation ( Manual )
 
-#### 1️⃣ Download theme
+#### 1️⃣ Unpack theme
 
 ```fish
 unzip cyberpunk_arcade.zip
