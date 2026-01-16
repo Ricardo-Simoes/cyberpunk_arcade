@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=90% src="/home/ricardo/MEGAsync/WIP/GRUB/GRUB-Themes/cyberpunk_arcade/media/banner.png" alt="banner" />
+  <img width=90% src="https://raw.githubusercontent.com/Ricardo-Simoes/cyberpunk_arcade/refs/heads/main/media/banner.png" alt="banner" />
 </p>
 
 <div align="center">
@@ -51,4 +51,4 @@ sudo update-grub
 
 ## 🖼️ Preview
 
-![preview](/home/ricardo/.config/marktext/images/2026-01-16-20-36-48-preview_cyberpunk_arcade_grub_theme.jpg)
+![preview](https://raw.githubusercontent.com/Ricardo-Simoes/cyberpunk_arcade/refs/heads/main/media/previews/preview_cyberpunk_arcade_grub_theme.jpg)
