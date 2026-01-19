@@ -6,7 +6,7 @@
   <a href="https://raw.githubusercontent.com/Ricardo-Simoes/cyberpunk_arcade/refs/heads/main/LICENSE">
     <img src="https://img.shields.io/badge/license-009dff?style=for-the-badge" alt="license" />
   </a>
-  <a href="#">
+  <a href="https://www.pling.com/p/2342719/">
     <img src="https://img.shields.io/badge/Download-32cd32?style=for-the-badge" alt="download" />
   </a>
 </div>
