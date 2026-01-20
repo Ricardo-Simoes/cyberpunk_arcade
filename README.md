@@ -45,7 +45,7 @@ sudo nano /etc/default/grub
 sudo update-grub
 ```
 
-  Now the theme should be installed successfully, enjoy !!
+  Now the theme should be installed successfully, reboot & enjoy !!
 
 </details>
 
