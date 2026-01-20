@@ -20,7 +20,7 @@
 #### 1️⃣ Unpack theme
 
 ```fish
-unzip cyberpunk_arcade.zip
+unzip cyberpunk-arcade.zip
 ```
 
 #### 2️⃣ Copy the theme directory.
